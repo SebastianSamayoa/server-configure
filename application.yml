@@ -1,1 +1,5 @@
 mensaje = creacion de configuraciones
+eureka:
+	cliente:
+		serviceUrl:
+			defaultZone: http://localhost:5001/eureka
