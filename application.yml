@@ -2,4 +2,4 @@ mensaje = creacion de configuraciones
 eureka:
 	cliente:
 		serviceUrl:
-			defaultZone: http://localhost:8761/eureka
+			defaultZone: http://localhost:5001/eureka
