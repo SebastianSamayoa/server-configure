@@ -14,13 +14,13 @@ spring:
         max-wait: 10000
         max-active: 300
         test-on-borrow: true
-        
+
     jpa:
         database-platform: org.hibernate.dialect.MySQL5Dialect
         show-sql: true
-spring:
-  data:
-    mongodb:
-      host: 172.17.0.3
-      port: 27017
-      database: dsweb
+
+    data:
+        mongodb:
+            host: 172.17.0.3
+            port: 27017
+            database: dsweb
