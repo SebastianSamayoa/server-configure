@@ -24,3 +24,5 @@ spring:
             host: 172.17.0.3
             port: 27017
             database: dsweb
+            username: dsweb
+            password: dsweb
