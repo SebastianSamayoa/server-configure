@@ -19,10 +19,10 @@ spring:
         database-platform: org.hibernate.dialect.MySQL5Dialect
         show-sql: true
 
-#    data:
-#        mongodb:
-#            host: 172.17.0.3
-#            port: 27017
-#            database: dsweb
-#            username: dsweb
-#            password: dsweb
+    data:
+        mongodb:
+            host: 172.17.0.3
+            port: 27017
+            database: dsweb
+            username: dsweb
+            password: dsweb
