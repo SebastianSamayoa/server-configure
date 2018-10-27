@@ -23,6 +23,6 @@ spring:
         mongodb:
             host: 172.17.0.3
             port: 27017
-            database: dsweb
+            database: admin
             username: dsweb
             password: dsweb
